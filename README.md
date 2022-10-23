@@ -6,13 +6,13 @@
 - Nacionalidad: Argentina.
 - Gmail: <barbara.s.miro@gmail.com>
 
-### **_SOBRE MI:
+### **_SOBRE MI_**:
 
 ¡Hola! Soy Bárbara S. Miró, tengo 27 años. Me recibi de Abogada y Procuradora en la Universidad de Buenos Aires, contando también con un titulo intermedio de Bachiller en Derecho. Actualmente me encuentro haciendo un curso en la UTN en programacion y realizando otro curso de Ciberseguridad en coderhouse.
 Actualmente me encuentro Trabajando como analista funcional en una empresa de sistemas para departamentos legales. 
 
 
-#### **_ FORMACION ACADEMICA_**:  :woman_student:
+#### **_FORMACION ACADEMICA_**: woman_student:
 
 - **_Abogacía**_:
 Universidad de Buenos Aires (UBA) | 2014 - 2021
@@ -24,7 +24,7 @@ Universidad de Buenos Aires (UBA) | 2014 - 2019
 Escuela de Comercio Nº33 "Maipú" | 2007 - 2012
 
 
-#### **_ FORMACION COMPLEMENTARIA_**:
+#### **_FORMACION COMPLEMENTARIA_**:
 
 - Programación Web Inicial – Front End Developer. Certificado expedido por la Universidad Tecnólogica Nacional. **_EN CURSO_** 
 - Curso de GIT Y GITHUB. Certificado expedido por la Universidad Nacional de San Isidro Raúl Scalabrini Ortiz (UNSO). **_EN CURSO_**
@@ -44,6 +44,5 @@ Escuela de Comercio Nº33 "Maipú" | 2007 - 2012
 - Google Drive, Zoom, Meet: Avanzado
 
 
-##### **_Redes Socioales**_:
-
+##### **_Redes Socioal_**:
 [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-mir%C3%B3/).
