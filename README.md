@@ -2,10 +2,9 @@
 
 ## **_DATOS PERSONALES_**: 
 - Nombre y Apellido : Bárbara Solange Miró.
-- Fecha de nacimiento: 04/01/1995.
+- Fecha de nacimiento: 04/01/1995
 - Nacionalidad: Argentina.
-- Gmail: <barbara.s.mirom@gmail.com>
-
+- Gmail: <barbara.s.miro@gmail.com>
 
 ### **_SOBRE MI:
 
