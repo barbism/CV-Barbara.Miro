@@ -8,7 +8,7 @@
 
 ### **_SOBRE MI_**:
 
-¡Hola! Soy Bárbara S. Miró, tengo 27 años. Me recibi de Abogada y Procuradora en la Universidad de Buenos Aires, contando también con un titulo intermedio de Bachiller en Derecho. Actualmente me encuentro haciendo un curso en la UTN en programacion y realizando otro curso de Ciberseguridad en coderhouse.
+¡Hola! Soy Bárbara Solange Miró, tengo 27 años. Me recibi de Abogada y Procuradora en la Universidad de Buenos Aires, contando también con un titulo intermedio de Bachiller en Derecho. Actualmente me encuentro haciendo un curso en la UTN en programacion y realizando otro curso de Ciberseguridad en coderhouse.
 Actualmente me encuentro Trabajando como analista funcional en una empresa de sistemas para departamentos legales. 
 
 
